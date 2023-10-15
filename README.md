@@ -1,7 +1,7 @@
 # Hyper-Explosions
 
 ## Overview
-A nuclear explosion mod named Hyper-Explosions will be created for a Slenders video project to showcase their invasion of the world.
+A Explosions mod named Hyper-Explosions for a slenders video project to demonstrate their world invasion via nuclear explosion.
 
 Contributors: 
 - Superkat32 (Former author)
