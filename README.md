@@ -7,7 +7,7 @@
 [![Discord](https://img.shields.io/badge/Discord-Invite-blue?style=for-the-badge&logo=discord)](https://discord.gg/the-alpha-server-852655613669277777)
 
 ### **📘 Description**
-An Explosions mod named Hyper-Explosions for a Slenders video project to demonstrate their world invasion through an explosion of the world.
+An explosions mod called Hyper-Explosions was created for a Slenders video project to showcase the world invasion through a massive explosion.
 
 ---
 ### **🙎‍♂️ Contributors**
