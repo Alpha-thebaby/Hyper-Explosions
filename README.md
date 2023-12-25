@@ -7,8 +7,7 @@
 [![Discord](https://img.shields.io/badge/Discord-Invite-blue?style=for-the-badge&logo=discord)](https://discord.gg/the-alpha-server-852655613669277777)
 
 ### **📘 Description**
-An explosions mod called Hyper-Explosions was created for a Slenders video project to showcase the world invasion through a massive explosion.
-
+The Hyper-Explosions Minecraft Mod unleashes an immense shockwave with realistic-looking explosions, including various detonators such as a nuclear bomb while keeping it te minecraft style . Originally designed for The Slenderman video project, this mod vividly illustrates a world invasion scenario through colossal explosions planned by the Slenders.
 ---
 ### **🙎‍♂️ Contributors**
 - Superkat32 (Former Author)
@@ -29,4 +28,4 @@ An explosions mod called Hyper-Explosions was created for a Slenders video proje
 <br><br>
 **Q:** I would like to contribute to or maintain the mod. Would I be able to do so?
 <br>
-**A:** Of course, you can do both or help add a feature. Just make sure to let me know by contacting my Discord "dralphaa".
+**A:** Of course, you can do both or help add a feature. Just make sure to let me know by contacting my Discord "adamdawoud".
