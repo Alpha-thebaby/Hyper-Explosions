@@ -8,6 +8,7 @@
 
 ### **📘 Description**
 The Hyper-Explosions Minecraft Mod unleashes an immense shockwave with realistic-looking explosions, including various detonators such as a nuclear bomb while keeping it te minecraft style . Originally designed for The Slenderman video project, this mod vividly illustrates a world invasion scenario through colossal explosions planned by the Slenders.
+
 ---
 ### **🙎‍♂️ Contributors**
 - Superkat32 (Former Author)
