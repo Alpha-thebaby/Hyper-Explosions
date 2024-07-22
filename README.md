@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/badge/Discord-6a6a6a?style=for-the-badge&labelColor=272727&logo=discord)](https://discord.gg/rtEGCzbZym)
 
 ### **📘 Description**
-The Hyper-Explosions Minecraft Mod unleashes an immense shockwave with realistic-looking explosions, including various detonators such as a nuclear bomb while keeping it the Minecraft style. Originally designed for The Slenderman video project, this mod vividly illustrates a world invasion scenario through colossal explosions planned by the Slenders.
+The Hyper-Explosions Minecraft Mod releases an immense shockwave with realistic-looking explosions, including various detonators such as a nuclear bomb while keeping it the Minecraft style. Originally designed for The Slenderman video project, this mod vividly illustrates a world invasion scenario through colossal explosions planned by the Slenders.
 
 ![](https://i.imgur.com/j8YAnhl.png)
 
@@ -15,9 +15,9 @@ The Hyper-Explosions Minecraft Mod unleashes an immense shockwave with realistic
 <br>
 **A:** Yes, feel free to use this mod in your modpack.
 <br><br>
-**Q:** What are the different game versions that this mod will support?
+**Q:** I have an inquiry about something
 <br>
-**A:** Currently only version 1.19.3. If there is a high demand we will provide a 1.20 version.
+**A:** Ask away in the comments or on the Discord server, and we will do our best to respond.
 
 ![](https://i.imgur.com/j8YAnhl.png)
 
